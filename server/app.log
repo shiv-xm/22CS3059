@@ -1,0 +1,15 @@
+[2025-09-21T09:32:38.611Z] POST /shorten
+[2025-09-21T09:32:47.448Z] GET /stats/12
+[2025-09-21T09:32:51.801Z] GET /stats/15
+[2025-09-21T09:43:03.243Z] GET /stats/undefined
+[2025-09-21T09:43:03.250Z] GET /stats/undefined
+[2025-09-21T09:43:15.122Z] GET /stats/undefined
+[2025-09-21T09:43:15.126Z] GET /stats/undefined
+[2025-09-21T09:45:33.822Z] GET /stats/undefined
+[2025-09-21T09:45:33.827Z] GET /stats/undefined
+[2025-09-21T09:45:41.625Z] GET /stats/undefined
+[2025-09-21T09:45:41.638Z] GET /stats/undefined
+[2025-09-21T09:45:46.959Z] GET /stats/undefined
+[2025-09-21T09:45:46.962Z] GET /stats/undefined
+[2025-09-21T09:45:56.856Z] GET /stats/undefined
+[2025-09-21T09:45:56.860Z] GET /stats/undefined
